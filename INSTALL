@@ -1,0 +1,9 @@
+Building Lowlycoin
+
+See doc/readme-qt.rst for instructions on building Lowlycoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Lowlycoin.
+
+See doc/build-*.txt for instructions on building lowlycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Lowlycoin.
